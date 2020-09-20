@@ -1,4 +1,4 @@
-package co.paulfran.mvvmshoppinglist
+package co.paulfran.mvvmshoppinglist.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
